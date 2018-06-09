@@ -7,7 +7,7 @@ var cache = require('gulp-cache');
 var cp = require('child_process');
 var browserSync = require('browser-sync');
 
-var jekyll   = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
+var jekyll = process.platform === 'win32' ? 'jekyll.bat' : 'jekyll';
 
 // Build the Jekyll Site
 gulp.task('jekyll-build', function (done) {
