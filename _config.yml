@@ -1,25 +1,23 @@
-title: Hello, world! I'm David Freeman
+title: Hello, world! I'm Gökhan Şişman
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Gökhan Şişman
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: Gökhan Şişman # add your name
+author-img: gokhansisman.jpg # add your photo
+about-author: I am a web developer focusing on back-end development. Always follow my dreams. # add description
 social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-facebook: https://www.facebook.com/gokhans1sman # add your Facebook handle
+social-github: gokhansisman # add your Github handle
+social-linkedin: https://www.linkedin.com/in/g%C3%B6khan-%C5%9Fi%C5%9Fman-784ba8159/ # add your Linkedin handle
+social-email: gokhansisman97@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: mr-sisman # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
