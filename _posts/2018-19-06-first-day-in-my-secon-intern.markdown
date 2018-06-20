@@ -13,17 +13,18 @@ Hello everyone , today my first day in second intern. Students(like me) know tha
 
 Like many developers, you should probably heard ReactJS. I heard , but just heard. I feel that today is good day for start a new topic like especially one of popular JS libraries. Let's look at the starting key topics ; DOM(Document Object Model), VirtualDOM and HTML tags js codes.
 
-#What is DOM ? 
+### What is DOM ? 
+
 Basically, object of everything include HTML. We can create object which has all code from html. The name "Document Object Model" was chosen because it is an "object model" is used in the traditional object oriented design sense: documents are modeled using objects, and the model encompasses not only the structure of a document, but also the behavior of a document and the objects of which it is composed.
 
-#What is VirtualDOM ?
+### What is VirtualDOM ?
 
 I want to tell this first , Virtual DOM was not invented by React, but React uses it and provides it for free, for open-source world.
 
 The Virtual DOM is an abstraction of the HTML DOM. It is lightweight and detached from the browser-specific implementation details. Since the DOM itself was already an abstraction, the virtual DOM is, in fact, an abstraction of an abstraction.You can think of the virtual DOM like a blueprint.
 
 
-##End of the Day!
+### End of the Day!
 Reading a lots of documents from internet is really tiring job. But if you like to research especially recursively :) 
 Probably , i 'll keep going to learn reactJS and trying to develop my JS knowledge.
 
