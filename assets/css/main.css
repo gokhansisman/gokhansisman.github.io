@@ -1481,5 +1481,16 @@ a.newer-posts:hover {
 }
 
 .back-button {
-  background: blue;
+  background-image: url("/assets/img/back.png");
+  -webkit-background-size: cover;
+          background-size: cover;
+  height: 40px;
+  width: 40px;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+
+back-button:hover {
+  background-color: red;
+  color: black;
 }
