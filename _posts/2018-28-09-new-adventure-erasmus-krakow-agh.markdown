@@ -3,7 +3,7 @@ layout: post
 title: Erasmus in Krakow ! 
 date: 2018-09-28 12:24:20 +0300
 description: The new adventure AGH Univercity. # Add post description (optional)
-img: krakow1.jpg # Add image post (optional)
+img: krakow2.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Erasmus, Krakow, AGH, Poland]
 ---
