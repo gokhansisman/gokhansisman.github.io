@@ -3,27 +3,23 @@ layout: post
 title: Erasmus in Krakow ! 
 date: 2018-09-28 12:24:20 +0300
 description: The new adventure AGH Univercity. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img: krakow2.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Erasmus, Krakow, AGH, Poland]
 ---
 Hello from Krakow , Poland. Today , i found a free time for writing to my blog. I came here in 25th September.
 
-## Ask yourself something about {...} fîll in the blank
-While people are doing something about projects , people should ask theirself " What am i doing ". I am trying to ask myself all the time this question. Sometimes , i can forget especially at the weekends. Nowadays, people always produce something new. At least they are trying , learning , searching. We should not stay behind. We must consider that.I think open-source world best oppurtunity for this. If you produce something for it , you can take your responses very quickly.
+## Starting with paper works ! 
+If you are planning to doing erasmus program , first you need to know that paper works does not end. You should all time in a rush. Time will start to pass very fast durin all program. If you need any sign from officals , you have to just wait for them. So , all adventure start with papers and will be finish with papers too !
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+![Krakow]({{site.baseurl}}/assets/img/krakow1.jpg)
 
->Code in Job or Code in {...} fîll in the blank.
+>" First impression for erasmus ; Where am I really ?! "
 
-Holidays are our freedom days. Summer, sun , sand , sea and no more job for a while. Pay attention please this ; 
-* If (WeAreIn=='Job')
-* allyear[]= {computer screen,bugs,deadlines...} 
-* If (WeAreIn=='holiday')
-* forholiday[]= {sun,sea,social-time,peace,games,beach,abroad.,.,..}
+Krakow is a very good city for erasmus because many students come from all over the world(I mean different nations). I am very glad to came here. On the other side , AGH Univercity is really big and full of opportunities. They have nice and comfort areas , new buildings and good education. We'll see that of course.
 
-Consider all of these , who wants write some code in holidays. Usually , if you check github projects ; there are too many project which are commit in holiday times, in the night or at the weekends. During the week , just commits for their job , not anything else. Actually , I want to tell this ; 
->If we dont consider our free times correctly , we cant learn different things.Especially in open-source world.
+>" I dont wanna lose my habit of coding !"
 
-Have a good day !
+Everything is okay for sure. However , there are a lots of events in everyday. I cant find time for regular things , really. Thats why , I am afraid of losing my coding skills. I will plan for my all days. I need kind of plan because of events, parties etc. I should find a free time for coding , courses and also can find time for events. Both are important for me. I can find a balance , i hope.
 
+*To be continued...(I will write all experiences here!)
