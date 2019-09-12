@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Productivity, Developer, Skills] # add tag
 ---
 
-Hello everyone , today i would like to talk about a few tips which they are my favorite stuffs. At the beginning of writing code , you can learn basic developer skills. Generally , they are include syntax rules and scope things. Let's start with first tip also it is very common.
+Hello everyone, today i would like to talk about a few tips which they are my favorite stuffs. At the beginning of writing code , you can learn basic developer skills. Generally , they are include syntax rules and scope things. Let's start with first tip also it is very common.
 
 > * Reading Open-source Project !
 
