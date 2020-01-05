@@ -9,11 +9,11 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Gökhan Şişman # add your name
 author-img: gokhansisman.jpg # add your photo
-about-author: I am a web developer focusing on back-end development. Always follow my dreams. # add description
+about-author: I am a software developer focusing on back-end,front-end and android development. My other patients are Data Science and Machine Learning. Always follow my dreams. # add description
 social-twitter: # add your Twitter handle
 social-facebook: gokhans1sman # add your Facebook handle
 social-github: gokhansisman # add your Github handle
-social-linkedin: g%C3%B6khan-%C5%9Fi%C5%9Fman-784ba8159/ # add your Linkedin handle
+social-linkedin: gokhan-sisman/ # add your Linkedin handle
 social-email: gokhansisman97@gmail.com # add your Email address
 
 # Disqus
