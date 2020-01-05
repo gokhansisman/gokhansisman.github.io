@@ -16,7 +16,7 @@ If you are planning to doing erasmus program , first you need to know that paper
 
 >" First impression for erasmus ; Where am I really ?! "
 
-Krakow is a very good city for erasmus because many students come from all over the world(I mean different nations). I am very glad to came here. On the other side , AGH Univercity is really big and full of opportunities. They have nice and comfort areas , new buildings and good education. We'll see that of course.
+Krakow is a very good city for erasmus because many students come from all over the world(I mean different nations). I am very glad to came here. On the other side , AGH University is really big and full of opportunities. They have nice and comfort areas , new buildings and good education. We'll see that of course.
 
 >" I dont wanna lose my habit of coding !"
 
