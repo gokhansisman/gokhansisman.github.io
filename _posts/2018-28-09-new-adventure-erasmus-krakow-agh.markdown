@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Erasmus in Krakow ! 
+title: Erasmus in Krakow ! (Updated)
 date: 2018-09-28 12:24:20 +0300
 description: The new adventure AGH Univercity.(Updated) # Add post description (optional)
 img: krakow2.jpg # Add image post (optional)
