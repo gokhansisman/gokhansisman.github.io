@@ -2,7 +2,7 @@
 layout: post
 title: Erasmus in Krakow ! 
 date: 2018-09-28 12:24:20 +0300
-description: The new adventure AGH Univercity. # Add post description (optional)
+description: The new adventure AGH Univercity.(Updated) # Add post description (optional)
 img: krakow2.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Erasmus, Krakow, AGH, Poland]
@@ -28,4 +28,12 @@ Everything is okay for sure. However , there are a lots of events in everyday. I
 
 Hello again, I haven't written for a long time. During my erasmus, I was really busy with courses and travelling. I can say that I gained a lot of experience in general and specific topics. First of all, I want to say about learning english. I was thinking, I was good enough to speak English and follow academic publications. In fact, It wasnt like that and I learned that via hard way during my erasmus time. 
 
-*Here my all courses and projects from (Erasmus) semester.
+### Here my all courses and projects from (Erasmus) semester.
+* Advanced C++ Programming 
+* Computer Graphics(ThreeJS)
+* Deep Learning(Python,Neural Network,Jupyter)
+* Software Engineering(Project with AGILE)
+* Signals are Systems
+> Projects 
+You can check on github.
+
