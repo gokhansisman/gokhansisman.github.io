@@ -23,3 +23,9 @@ Krakow is a very good city for erasmus because many students come from all over 
 Everything is okay for sure. However , there are a lots of events in everyday. I cant find time for regular things , really. Thats why , I am afraid of losing my coding skills. I will plan for my all days. I need kind of plan because of events, parties etc. I should find a free time for coding , courses and also can find time for events. Both are important for me. I can find a balance , i hope.
 
 *To be continued...(I will write all experiences here!)
+
+> " After 2 years " 
+
+Hello again, I haven't written for a long time. During my erasmus, I was really busy with courses and travelling. I can say that I gained a lot of experience in general and specific topics. First of all, I want to say about learning english. I was thinking, I was good enough to speak English and follow academic publications. In fact, It wasnt like that and I learned that via hard way during my erasmus time. 
+
+*Here my all courses and projects from (Erasmus) semester.
