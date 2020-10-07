@@ -1,0 +1,326 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom, #D5DEE7 0%, #E8EBF2 50%, #E2E7ED 100%), linear-gradient(to bottom, rgba(0,0,0,0.02) 50%, rgba(255,255,255,0.02) 61%, rgba(0,0,0,0.02) 73%), linear-gradient(33deg, rgba(255,255,255,0.20) 0%, rgba(0,0,0,0.20) 100%);
+  background-blend-mode: normal,color-burn;
+  
+  background-attachment: fixed;
+}
+main {
+  font-family: "Heebo", sans-serif;
+}
+.dark-mode {
+  background: black !important;
+  color: white;
+}
+.dark-mode .p{
+  background-image: url(dark-mode.png); 
+  height: 100px;
+  width: 100px;
+  background-size: cover; 
+  position: fixed;
+}
+.dark-mode .p:hover {
+cursor: pointer;
+}
+
+.curl  {
+  position: fixed;
+  width: 150px;
+  height: 150px;
+  right: 0;
+  top: 0;
+}
+
+ .text-animation span::after{
+  content: '';
+  font-size: 16px;
+  color: #5B7553;
+  text-align: center;
+  animation: profile 5s infinite;
+}
+@keyframes profile {
+  0% { content: 'Chess'}
+  25% { content: 'Travelling'}
+  50% { content: 'Guitar'}
+  100% { content: 'Swimming'}
+}
+
+.landing {
+  min-height: 30vh;
+  padding: 0rem 5rem;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 10vh;
+}
+.about-container {
+  height: 563px;
+    width: 1500px;
+    background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);
+    margin: auto;
+    border-radius: 8px;
+    box-shadow: 1px 1px 10px 2px #5B7553, 1px 1px 10px 2px #c79081;
+    overflow: hidden;
+}
+.about-container .left-part {
+  width: 25%; 
+  height: 563px;
+  float:left;
+  display: inline-table;
+  background-image: url("left-side.png");
+  background-size: cover;
+}
+
+.about-container .left-part .author-img {
+  height: 200px;
+  width: 200px;
+  border: 8px solid #dfa579;
+  border-radius: 50%;
+  margin: 20px;
+  transition-property: border-color;
+  transition-duration: 500ms;
+}
+.about-container .left-part .author-img:hover{
+border-color: #c9d2db;
+}
+.about-container .left-part .author-title {
+  font-weight: 200;
+  color: #342E37;
+  margin: -10px 40px;
+}
+
+.about-container .left-part p {
+  color: #342E37;
+  margin: 23px 40px;
+  font-family: "Heebo", sans-serif;
+}
+.social-icons {
+margin-left: 40px;
+}
+.social-icons a {
+color: #342E37;
+font-size: 24px;
+letter-spacing: 26px;
+
+}
+.social-icons a:hover {
+  cursor: pointer;
+  }
+  
+.social-icons a::after {
+  text-transform: none;
+  width: 0px !important;
+}
+
+
+.about-container .right-part {
+  width: 75%; 
+  float:right;
+  margin-top: 60px;
+  line-break: auto;
+}
+.about-container .right-part h3 {
+ font-size: 24px;
+ color: 342E37;
+ font-weight: 700;
+ font-family: 'Indie Flower', cursive;
+ line-height: 2.5rem;
+}
+.about-container .right-part p {
+  color: #f4f4f4;
+  font-size: 18px;
+  font-weight: 100;
+  font-family: 'Open Sans', sans-serif;
+  
+  margin: 15px;
+ line-height: 2rem;
+ }
+ .about-container .right-part h3 {
+  margin: 15px;
+ line-height: 1.5rem;
+ }
+
+.intro {
+  background:#16131c;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  #logo {
+    position: relative;
+    width: 200px;
+    height: 200px;
+  }
+.slider {
+  background: #16131c;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: translateY(100%);
+}
+
+.intro-text {
+  color: rgb(233, 233, 233);
+  font-family: "Heebo", sans-serif;
+  font-size: 3rem;
+}
+
+.hide {
+  background: #16131c;
+  overflow: hidden;
+}
+
+.hide span {
+  transform: translateY(100%);
+  display: inline-block;
+}
+
+@media (min-width: 840px) {
+  .mdl-grid {
+    padding: 8px;
+  }
+}
+.mdl-grid {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0 auto 0 auto;
+    align-items: stretch;
+}
+ul { 
+  margin: 150px auto 0; 
+  padding: 0; 
+  list-style: none; 
+  display: table;
+  width: 600px;
+  text-align: center;
+}
+li { 
+  display: table-cell; 
+  position: relative; 
+  padding: 15px 0;
+}
+a {
+  color: #342E37;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 18px;
+  letter-spacing: 0.15em;
+  display: inline-block;
+  position: relative;
+}
+a:after {    
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: #333;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+a:hover:after { 
+  width: 50%; 
+  left: 23%; 
+}
+@media screen and (max-height: 300px) {
+	ul {
+		margin-top: 40px;
+	}
+}
+
+.reach-me{
+  padding-top: 20px;
+}
+.contact-main{
+  position: fixed;
+    margin-top:50px;
+    margin-left: 80px;
+    font-size: 57px;
+    transition-property: color;
+    transition-duration: 500ms;
+}
+.contact-main:hover {
+ color: white;
+ cursor: grab;
+}
+.contact-main::after {
+  text-transform: none;
+  width: 0px !important;
+}
+.contact {
+  height: 500px;
+  width: 500px;
+  background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);
+  margin: auto;
+  border-radius: 8px;
+  box-shadow: -3px -3px 9px 2px #c79081;
+}
+.contact .qr-code {
+  display: flex;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  border: 1px solid #fff;
+  border-radius: 2px;
+}
+.contact .contact-icons {
+  display: flex;
+  justify-content: center;
+  place-content: space-evenly;
+}
+.contact .contact-icons a {
+  color: #F1E5D6;
+  font-size: 32px;
+  margin-top: 4px;
+}
+.contact-icons a:hover {
+  cursor: pointer;
+  color: #342E37;
+  }
+  
+.contact-icons a::after {
+  text-transform: none;
+  width: 0px !important;
+}
+.contact .social-icons {
+  display: flex;
+  justify-content: center;
+  place-content: space-evenly;
+ 
+  padding-top: 40px;
+   margin-left: 32px;
+}
+.contact .social-icons a {
+  color: #F1E5D6;
+  font-size: 32px;
+  -webkit-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
+  -o-transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
+  transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
+}
+.contact .social-icons a:hover {
+  cursor: pointer;
+color: #342E37;
+-webkit-transform: scale(1.5);
+-ms-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+
