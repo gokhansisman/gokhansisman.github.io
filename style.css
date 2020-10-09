@@ -19,10 +19,12 @@ main {
   color: white;
 }
 .dark-mode .p{
-  background-image: url(dark-mode.png); 
+  background-image: url(dark-mode2.png); 
   height: 100px;
   width: 100px;
+  margin: 20px;
   background-size: cover; 
+  background-position: inherit; 
   position: fixed;
 }
 .dark-mode .p:hover {
@@ -275,11 +277,11 @@ a:hover:after {
 }
 .contact .qr-code {
   display: flex;
-  width: 300px;
-  height: 300px;
+  width: 380px;
+  height: 380px;
   margin: auto;
   border: 1px solid #fff;
-  border-radius: 2px;
+  border-radius: 6px;
 }
 .contact .contact-icons {
   display: flex;
