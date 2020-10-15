@@ -66,7 +66,7 @@ nav {
 .about-container {
   height: 563px;
     width: 1500px;
-    background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);
+    background-image: linear-gradient(to top, #ebd2cb 0%, #ab9e94 100%);
     margin: auto;
     border-radius: 8px;
     box-shadow: 1px 1px 10px 2px #5B7553, 1px 1px 10px 2px #c79081;
@@ -326,3 +326,55 @@ color: #342E37;
 }
 
 
+@media (max-width:500px) and (min-width:100px)  {
+  .about-container {
+    height: 563px;
+    height: max-content;
+    width: 450px;
+    display: block;
+    margin-left: 35%;
+    background-image: linear-gradient(to top, #ebd2cb 0%, #ab9e94 100%);
+    border-radius: 8px;
+    box-shadow: 1px 1px 10px 2px #5B7553, 1px 1px 10px 2px #c79081;
+    overflow: hidden;
+  }
+  .about-container .left-part {
+    height: 513px;
+    width: 670px;
+    display: flex;
+    background-image: url(left-side.png);
+    background-size: cover;
+}
+  .about-container .right-part {
+    float: left;
+    margin-top: 60px;
+    line-break: auto;
+    width: 410px;
+}
+.about-container .left-part .author-img {
+  height: 200px;
+  width: 200px;
+  border: 8px solid #dfa579;
+  border-radius: 50%;
+  display: flex;
+  margin: auto;
+  margin-left: 106px;
+  transition-property: border-color;
+  transition-duration: 500ms;
+}
+.about-container .left-part .author-title {
+  font-weight: 200;
+  color: #342E37;
+  margin: 16px 106px;
+}
+.about-container .left-part p {
+  color: #342E37;
+  margin: 23px 131px;
+  font-family: "Heebo", sans-serif;
+}
+.social-icons {
+  margin-left: 125px;
+}
+
+
+}
