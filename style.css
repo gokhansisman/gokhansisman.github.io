@@ -327,6 +327,7 @@ color: #342E37;
 
 
 @media (max-width:500px) and (min-width:100px)  {
+ 
   .about-container {
     height: 563px;
     height: max-content;
@@ -374,6 +375,9 @@ color: #342E37;
 }
 .social-icons {
   margin-left: 125px;
+}
+.intro-text {
+  font-size: 16px;
 }
 
 
