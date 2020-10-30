@@ -309,4 +309,12 @@ a.author-avatar {
     overflow: hidden;
     margin: 10px 100px;
 }
+.curl {
+    position: fixed;
+    display: none;
+    width: 150px;
+    height: 150px;
+    right: 0;
+    top: 0;
+}
 }
