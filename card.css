@@ -281,3 +281,32 @@ a.author-avatar {
     background-clip: text;
     border-color: white;
 }
+@media (max-width:500px) and (min-width:100px)  {
+    .card{
+        height: 350px;
+        width: 400px;
+        min-width: 250px;
+        padding: 1.5rem;
+        border-radius: 16px;
+        background: #17141d;
+        box-shadow: -0.3rem 0 0.3rem #9CFFFA;
+        display: flex;
+        flex-direction: column;
+        transition: .2s;
+        margin: 0;
+        margin-top: 2px;
+        scroll-snap-align: start;
+        clear: both;
+        position: relative;
+    }
+.card:not(:first-child) {
+    margin-left: 0px;
+}
+.card-list {
+    display: inline-grid;
+    padding: 2rem;
+    overflow-x: scroll;
+    overflow: hidden;
+    margin: 10px 100px;
+}
+}

@@ -108,7 +108,7 @@ border-color: #c9d2db;
 margin-left: 40px;
 }
 .social-icons a {
-color: #342E37;
+color: #342E37 !important;
 font-size: 24px;
 letter-spacing: 26px;
 
@@ -126,7 +126,7 @@ letter-spacing: 26px;
 .about-container .right-part {
   width: 75%; 
   float:right;
-  margin-top: 60px;
+  margin-top: 30px;
   line-break: auto;
 }
 .about-container .right-part h3 {
@@ -149,6 +149,7 @@ letter-spacing: 26px;
   margin: 15px;
  line-height: 1.5rem;
  }
+
 
 .intro {
   background:#16131c;
@@ -204,6 +205,12 @@ letter-spacing: 26px;
     margin: 0 auto 0 auto;
     align-items: stretch;
 }
+.nav-ul a {
+  color: #342E37;
+}
+.nav-ul-dark a {
+  color: #ffffff;
+}
 ul { 
   margin: 150px auto 0; 
   padding: 0; 
@@ -217,6 +224,7 @@ li {
   position: relative; 
   padding: 15px 0;
 }
+
 a {
   color: #342E37;
   text-transform: uppercase;
