@@ -18,6 +18,7 @@ main {
   background: black !important;
   color: white;
 }
+
 .dark-mode .p{
   background-image: url(dark-mode2.png); 
   height: 100px;
@@ -56,6 +57,7 @@ cursor: pointer;
 .landing {
   min-height: 30vh;
   padding: 0rem 5rem;
+  margin: -50px;
 }
 nav {
   display: flex;
@@ -64,10 +66,12 @@ nav {
   min-height: 10vh;
 }
 .about-container {
-  height: 563px;
-    width: 1500px;
+  height: 505px;
+  display: flex;
+    width: 80%;
     background-image: linear-gradient(to top, #ebd2cb 0%, #ab9e94 100%);
     margin: auto;
+    margin-bottom: 20px;
     border-radius: 8px;
     box-shadow: 1px 1px 10px 2px #5B7553, 1px 1px 10px 2px #c79081;
     overflow: hidden;
@@ -77,7 +81,6 @@ nav {
   height: 563px;
   float:left;
   display: inline-table;
-  background-image: url("left-side.png");
   background-size: cover;
 }
 
@@ -124,7 +127,7 @@ letter-spacing: 26px;
 
 
 .about-container .right-part {
-  width: 75%; 
+  width: 70%; 
   float:right;
   margin-top: 30px;
   line-break: auto;
@@ -280,6 +283,7 @@ a:hover:after {
   width: 500px;
   background-image: linear-gradient(to top, #c79081 0%, #dfa579 100%);
   margin: auto;
+  margin-top: 40px;
   border-radius: 8px;
   box-shadow: -3px -3px 9px 2px #c79081;
 }
@@ -352,7 +356,7 @@ color: #342E37;
     height: 513px;
     width: 670px;
     display: flex;
-    background-image: url(left-side.png);
+    
     background-size: cover;
 }
   .about-container .right-part {
@@ -407,4 +411,9 @@ color: #342E37;
   border-radius: 6px;
 }
 
+}
+@media screen and (max-width:1200px){
+  .about-container .right-part p {
+    font-size: 14px;
+  }
 }
