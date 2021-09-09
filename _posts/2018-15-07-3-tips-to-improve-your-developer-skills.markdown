@@ -8,19 +8,20 @@ fig-caption: # Add figcaption (optional)
 tags: [Productivity, Developer, Skills] # add tag
 ---
 
-Hello everyone , today i would like to talk about a few tips which they are my favorite stuffs. At the beginning of writing code , you can learn basic developer skills. Generally , they are include syntax rules and scope things. Let's start with first tip also it is very common.
+Hello everyone, today I would like to talk about a few tips which are my favorite kinds of stuff. At the beginning of writing code, you can learn basic developer skills. Generally, they have included syntax rules and scope things. All tips are my opinion. Let’s start with the first tip.
 
-> * Reading Open-source Project !
 
-Developers need to be dynamic and follow the modern code or software understanding. Reading different projects , stranger codes or something is really unusual for you. A developer should have good view of open-source perspective. It will takes a long time but in the end you gonna reach something very beneficial!
+> * Reading Open-source Project!
 
-> * Learn and Use Design Patterns !
+Developers need to be dynamic and follow the modern code or software understanding. Reading different projects on Github is very useful. A developer should have a good view of the open-source perspective. It will take a long time but, you are going to succeed later.
 
-A good developer should learn design principles and he/she must use design patterns in your project. The main key is writing code in a good shape. When other developers looked your codes , they should easily understand your code. Design patterns can help you in this issue. They make your code understandable and global. Developers try to create a common way for understand codes how to work. So , people need to understand these design patterns!
+> * Learn and Use Design Patterns!
 
-> * Writing Unit Test !
+A good developer should learn design principles and apply them to project. One of the main keys to good code quality is readability. When other developers looked your codes, they should easily understand your code. Design patterns can help you with this issue. They make your code understandable and global. Developers try to create a common way to understand how codes work. So, people need to understand those design patterns!
 
-The new important skill is writing unit test. If you look job advertisements , you can see this feature more often. Actually , complete a code is not enough in new world. You need to complete with all your debugs. Its very important for a specific high level. I am trying to learn how to write unit test for my codes. You should learn too!
+> * Writing Unit Test!
+
+The new important skill is writing unit tests. If you look at job advertisements, you can see this feature more often. Actually, complete a code is not enough in the new world. You need to complete all your debugs. It's important for a senior's level. I am trying to learn how to write unit tests for my codes. You should learn too!
 
 ![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
 
