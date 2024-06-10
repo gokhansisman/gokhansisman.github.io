@@ -3,9 +3,11 @@ layout: post
 title: The Importance of Good PR Reviews in Software Development
 date: 2024-06-09 15:45:00 +0300
 description: Discover why effective pull request reviews are critical in maintaining high standards of code quality and fostering collaborative software development.
-img: prreview.png
+img: review.jpg
 tags: [Software, Development, Teamwork]
 ---
+
+Image: [Freepik](https://img.freepik.com/free-photo/against_1098-18430.jpg?t=st=1718055410~exp=1718059010~hmac=992cfde52035df614d7699e320a7a1f42fd67ccca3e5f70004603d8c1fa815b6&w=740)
 
 ### The Importance of Good PR Reviews in Software Development
 
@@ -13,7 +15,7 @@ In the world of software development, **Pull Request (PR) reviews** play a pivot
 
 #### **1. Enhancing Code Quality**
 
-Good PR reviews help maintain a high standard of code quality. Reviewers scrutinize the code for potential errors that the original developer might have overlooked. This process helps in identifying issues such as memory leaks, scalability concerns, or security vulnerabilities before they make it into production.
+Good PR reviews help maintain a high standard of code quality. Reviewers analyze the code for potential errors that the original developer might have overlooked. This process helps in identifying issues such as memory leaks, scalability concerns, or security vulnerabilities before they make it into production.
 
 #### **2. Facilitating Knowledge Sharing**
 
