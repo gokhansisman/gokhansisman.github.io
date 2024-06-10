@@ -5,7 +5,6 @@ date: 2024-06-10 15:45:00 +0300
 description: Explore how integrating GraphQL with Redux Toolkit can streamline state management in your applications and enhance data handling efficiency.
 img: graphql-redux.png
 tags: [GraphQL, Redux, Software Development, Web Development]
-Leveraging GraphQL Advantages with Redux Toolkit Compatibility
 ---
 
 # Leveraging GraphQL Advantages with Redux Toolkit Compatibility
